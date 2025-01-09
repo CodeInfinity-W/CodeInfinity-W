@@ -13,4 +13,4 @@ if week_num == calendar.weekday(2025,1,8):
     print("You have recieved $.50")
 
 else:
-    print("Error")
+    print("No salary")
